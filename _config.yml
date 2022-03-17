@@ -3,8 +3,8 @@ description: > # this means to ignore newlines until "baseurl:"
   I created this site for my girlfriend in order to remember her workout routines,
   also to dont forget how to execute each exercise. And that I love her.
 permalink: ':title/'
-baseurl: "/workout" # the subpath of your site, e.g. /blog
-url: "http://babymoni.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/babymoni" # the subpath of your site, e.g. /blog
+url: "http://ibnami.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
