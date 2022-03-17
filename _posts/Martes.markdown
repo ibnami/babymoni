@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
-date: 2017-04-06 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title: Martes
+date: 2022-17-03 03:33:33 +0300
+description: Hoy Martes trabajaremos el tren superior y abdomen. # Add post description (optional)
 img:  # Add image post (optional)
+tags: [Workout, Martes, Brazos, Pecho, Espalda, Hombros, Abdomen] # add tag
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
