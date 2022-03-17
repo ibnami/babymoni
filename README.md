@@ -1,18 +1,16 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Babymoni 1.0.0
+## Personal Website 
+This is a personal github page meant to be used by me, in it you can find my weekly routine for the next summer 2022. Each day has an specific workout plan, which should be displayed under each day. In each exercise you can look at examples on the side view.
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
-
-## Demo
-
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+*  Check the site in action [here](https://babymoni.github.io/)
 
 The main page would look like this:
 
 ![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-The post page would look like this:
+The day page would look like this:
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+![Day page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
 ## Features
 
@@ -21,10 +19,6 @@ The post page would look like this:
 - [Disqus](https://disqus.com/)
 - [Analytics](https://analytics.google.com/analytics/web/)
 - Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
 
 ## License
 
