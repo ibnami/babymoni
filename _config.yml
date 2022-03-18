@@ -8,9 +8,9 @@ url: "http://ibnami.github.com" # the base hostname & protocol for your site, e.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Miguel Ibarra # add your name
-author-img: # add your photo
-about-author: I am a DevOps engineer. I enjoy life but not really. # add description
+author: Baby Moni # add your name
+author-img: babymoni.jpg # add your photo
+about-author: Workout Routines. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: ibnami # add your Github handle
