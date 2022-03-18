@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Baby Moni # add your name
+author: Babymoni # add your name
 author-img: babymoni.jpg # add your photo
 about-author: Workout Routines. # add description
 social-twitter: # add your Twitter handle
@@ -30,7 +30,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 5
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
